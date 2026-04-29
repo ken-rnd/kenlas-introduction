@@ -3,7 +3,7 @@
 // Keys are organized per slide for clarity. Use dot-paths via t('slide01.heroTitle1').
 
 export const supportedLangs = ['vi', 'en', 'ko'];
-export const defaultLang = 'vi';
+export const defaultLang = 'ko';
 
 const vi = {
     slide01: {
